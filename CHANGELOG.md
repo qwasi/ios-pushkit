@@ -1,3 +1,9 @@
+## SDK Version 2.1.16-dev.135 / 2015-09-09
+
+- [NEW] Adding connection logic and event tryPost, [IOSSDK-121](https://jira.qwasi.com/browse/IOSSDK-121)
+- [NEW] Adding connection logic and event tryPost, [IOSSDK-121](https://jira.qwasi.com/browse/IOSSDK-121)
+- [NEW] Adding connection logic and event tryPost, [IOSSDK-121](https://jira.qwasi.com/browse/IOSSDK-121)
+- [NEW] Adding message SHA1 check, [IOSSDK-119](https://jira.qwasi.com/browse/IOSSDK-119)
 ## SDK Version 2.1.16-dev.134 / 2015-09-09
 
 - [NEW] Adding connection logic and event tryPost, [IOSSDK-121](https://jira.qwasi.com/browse/IOSSDK-121)

@@ -1,5 +1,7 @@
 ## SDK Version 2.1.16-dev.139 / 2015-09-11
 
+## SDK Version 2.1.16-dev.139 / 2015-09-11
+
 ## SDK Version 2.1.16-dev.138 / 2015-09-11
 
 ## SDK Version 2.1.16-dev.137 / 2015-09-11

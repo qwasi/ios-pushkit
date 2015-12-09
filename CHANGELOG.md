@@ -1,3 +1,6 @@
+## SDK Version 2.1.18-dev.164 / 2015-12-09
+
+- [FIX] Updating the documentation, [IOSSDK-129](https://jira.qwasi.com/browse/IOSSDK-129)
 ## SDK Version 2.1.18-dev.163 / 2015-11-30
 
 ## SDK Version 2.1.17-dev.161 / 2015-11-05

@@ -1,3 +1,10 @@
+## SDK Version 2.1.18-dev.170 / 2015-12-10
+
+- [FIX] Adding check for null payloads, [IOSSDK-132](https://jira.qwasi.com/browse/IOSSDK-132)
+- [FIX] Updating the example to account for race conditions with registration, [IOSSDK-131](https://jira.qwasi.com/browse/IOSSDK-131)
+- [FIX] Updating the example to account for race conditions with registration, [IOSSDK-131](https://jira.qwasi.com/browse/IOSSDK-131)
+- [FIX] fixing the serialization if message selected and fetched flags, [IOSSDK-129](https://jira.qwasi.com/browse/IOSSDK-129)
+- [FIX] Updating the documentation, [IOSSDK-129](https://jira.qwasi.com/browse/IOSSDK-129)
 ## SDK Version 2.1.18-dev.169 / 2015-12-09
 
 - [FIX] Updating the example to account for race conditions with registration, [IOSSDK-131](https://jira.qwasi.com/browse/IOSSDK-131)

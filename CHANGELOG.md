@@ -1,3 +1,12 @@
+## SDK Version 2.1.18-dev.173 / 2015-12-14
+
+- [FIX] fixing message.selected flag, [IOSSDK-135](https://jira.qwasi.net/browse/IOSSDK-135), closes #7
+- [FIX] Adding badge and sound alert support, [IOSSDK-134](https://jira.qwasi.net/browse/IOSSDK-134)
+- [FIX] Adding check for null payloads, [IOSSDK-132](https://jira.qwasi.net/browse/IOSSDK-132)
+- [FIX] Updating the example to account for race conditions with registration, [IOSSDK-131](https://jira.qwasi.net/browse/IOSSDK-131)
+- [FIX] Updating the example to account for race conditions with registration, [IOSSDK-131](https://jira.qwasi.net/browse/IOSSDK-131)
+- [FIX] fixing the serialization if message selected and fetched flags, [IOSSDK-129](https://jira.qwasi.net/browse/IOSSDK-129)
+- [FIX] Updating the documentation, [IOSSDK-129](https://jira.qwasi.net/browse/IOSSDK-129)
 ## SDK Version 2.1.18-dev.172 / 2015-12-14
 
 - [FIX] Adding badge and sound alert support, [IOSSDK-134](https://jira.qwasi.com/browse/IOSSDK-134)
